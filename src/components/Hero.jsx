@@ -1,7 +1,5 @@
 import React from "react";
 import "../index.css";
-import hero1 from "../assets/hero1.webp";
-import hero2 from "../assets/hero2.webp";
 import { motion } from "framer-motion";
 import { useTranslation } from "react-i18next";
 
@@ -24,7 +22,7 @@ const Hero = () => {
               <button className="hero__button">{t("hero.button")}</button>
             </div>
             <div className="hero__container__right">
-              <img src={hero1} alt="hero" />
+              <img src="/images/hero1.webp" alt="hero" />
             </div>
           </div>
         </motion.div>
@@ -37,7 +35,7 @@ const Hero = () => {
         >
           <div className="hero__container__bottom">
             <div className="hero__container__bottom__left">
-              <img src={hero2} alt="hero" />
+              <img src="/images/hero2.webp" alt="hero" />
             </div>
             <div className="hero__container__bottom__right">
               <h2>{t("hero.title2")}</h2>
