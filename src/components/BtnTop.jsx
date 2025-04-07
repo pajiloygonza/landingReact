@@ -23,7 +23,11 @@ const BtnTop = () => {
 
   return (
     isVisible && (
-      <button className="btnTop" className="scrollTop p-6 bg-white" onClick={scrollToTop} style={styles.button}>
+      <button
+        className="btnTop scrollTop p-6 bg-white"
+        onClick={scrollToTop}
+        style={styles.button}
+      >
         <div className="margintop5" style={{ marginTop: "3px" }}>
           <svg
             viewBox="0 0 64 64"

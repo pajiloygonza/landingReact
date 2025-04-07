@@ -61,11 +61,10 @@ const Reviews = () => {
             loop={true}
           >
             {reviews.map((review, index) => (
-              console.log(review.img);
               <SwiperSlide key={index}>
                 <div className="swiper__container">
                   <div className="swiper__photo-and-name">
-                    <img className="swiper-img" src={review.img} alt="image" />
+                    <img className="swiper-img" src="/images/stat3.jpeg" alt="image" />
                     <div className="block-name">
                       <h3 className="text-lg font-semibold">{review.name}</h3>
                     </div>
