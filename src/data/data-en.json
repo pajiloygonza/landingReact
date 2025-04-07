@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Igor",
+        "text": "At first, I was skeptical — healthy food was associated with bland chicken and broccoli. But when I tried this catering, I was pleasantly surprised: the dishes are tasty, diverse, and healthy. Every gram of protein, fat, and carbohydrates is calculated. The menu is updated regularly, so the food doesn't get boring. I've been on this diet for 2 months now — and lost 6 kg without feeling hungry. Very satisfied with the results and service. Highly recommend!",
+        "img": "src/assets/stat3.jpeg",
+        "city": "Kryvyi Rih"
+    },
+    {
+        "name": "Maria",
+        "text": "I was looking for a solution that would help me eat right without spending an hour at the stove every day. This catering is a lifesaver! I've ordered it for the fourth time now, and everything always arrives on time and in perfect condition. The packaging is convenient, nothing spills. The dishes are delicious, and it doesn't feel like you're on a diet. I have more energy, and the heaviness in my stomach is gone. The service saves me time and takes care of my health. It's the perfect balance between taste and benefit!",
+        "img": "src/assets/stat2.jpg",
+        "city": "America"
+    },
+    {
+        "name": "Ilya",
+        "text": "After work, there's no time left for cooking, and eating just anything is not an option. This catering has become a real helper for me. The menu is well thought out, the food doesn't repeat, and the taste is on par with a good restaurant. Moreover, the portions are not small but normal — you feel full. I can feel my body changing: more energy, better sleep, less craving for sweets. It's convenient that you can choose a program tailored to your goals — gaining mass or losing weight.",
+        "img": "src/assets/stat3.jpeg",
+        "city": "Lviv"
+    },
+    {
+        "name": "Ilya",
+        "text": "Since I started ordering food from you, I've completely changed my attitude toward healthy eating. I used to think it was expensive and complicated, but now I see that you can eat right and deliciously. I especially like the vegetable dishes — always juicy, not overcooked. Plus, the convenient app allows you to change the menu and track calories. I've stopped snacking on junk food, and even my skin looks better. I'm very grateful for such a service!",
+        "img": "src/assets/stat4.webp",
+        "city": "Chernobyl"
+    },
+    {
+        "name": "Ilya",
+        "text": "This service has completely changed my eating habits. In the morning, I no longer think about what to cook — I just open the box, and everything is ready. Perfect for those who work or study. The quality of the food is consistently high, nothing is spoiled, and the freshness is top-notch. Even my parents got hooked, although they laughed at first. I see progress: less swelling, a flatter stomach, and a better mood. This is not just catering — it's my personal assistant in taking care of myself and my body.",
+        "img": "src/assets/stat5.jpg",
+        "city": "Plombir"
+    },
+    {
+        "name": "Ilya",
+        "text": "I decided to try catering out of curiosity — I was tired of eating fast food. I didn't expect healthy food to be so delicious! Even the desserts are delightful: sugar-free but still really tasty. I like that you can choose a diet based on your activity level — I work out, and there's enough protein. The courier always arrives on time, and the packaging is convenient. Most importantly, I feel better, and there's a sense of lightness. I'll keep ordering and recommending it to my friends!",
+        "img": "src/assets/brad1.jpeg",
+        "city": "Egypt"
+    },
+    {
+        "name": "Ilya",
+        "text": "I've tried a bunch of healthy eating services, but this catering has been a real find for me. The dishes are not only tasty but also truly balanced — you can tell that dietitians are involved in the process. The portions are filling, nothing extra, everything is precise according to the nutritional values. I especially like that the food is always fresh and the delivery is reliable. Thanks to this service, I've finally started eating regularly and feel lighter, more energetic, and more confident. Thank you so much for such care!",
+        "img": "src/assets/brad2.jpg",
+        "city": "Zhytomyr"
+    }
+]

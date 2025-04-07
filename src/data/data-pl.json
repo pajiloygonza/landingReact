@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Igor",
+        "text": "Na początku byłem sceptyczny — zdrowe jedzenie kojarzyło mi się z mdłym kurczakiem i brokułami. Ale kiedy spróbowałem tego cateringu, byłem mile zaskoczony: dania są smaczne, różnorodne i jednocześnie zdrowe. Każdy gram białka, tłuszczu i węglowodanów jest dokładnie liczony. Menu jest regularnie aktualizowane, więc jedzenie się nie nudzi. Już 2 miesiące na tej diecie — i minus 6 kg bez uczucia głodu. Jestem bardzo zadowolony z wyników i obsługi. Zdecydowanie polecam!",
+        "img": "src/assets/stat3.jpeg",
+        "city": "Krzywy Róg"
+    },
+    {
+        "name": "Maria",
+        "text": "Długo szukałam rozwiązania, które pozwoli mi zdrowo się odżywiać, nie tracąc codziennie godziny w kuchni. Ten catering to ratunek! Zamawiam już czwarty raz, wszystko zawsze przyjeżdża na czas i w idealnym stanie. Opakowanie jest wygodne, nic się nie wylewa. Dania są smaczne, nie czuję, że jestem na diecie. Mam więcej energii, zniknęła ciężkość w żołądku. Usługa oszczędza mi czas i dba o moje zdrowie. To idealna równowaga między smakiem a korzyścią!",
+        "img": "src/assets/stat2.jpg",
+        "city": "Ameryka"
+    },
+    {
+        "name": "Ilja",
+        "text": "Po pracy nie mam czasu na gotowanie, a jedzenie byle czego nie wchodzi w grę. Ten catering stał się dla mnie prawdziwym pomocnikiem. Menu jest dobrze przemyślane, jedzenie się nie powtarza, a smak jest na poziomie dobrej restauracji. Porcje nie są małe, są normalne — można się najeść. Czuję, jak zmienia się moje ciało: mam więcej siły, lepiej śpię, mniej ciągnie mnie do słodyczy. Wygodne jest to, że można wybrać program dostosowany do swoich celów — przyrost masy lub odchudzanie.",
+        "img": "src/assets/stat3.jpeg",
+        "city": "Lwów"
+    },
+    {
+        "name": "Ilja",
+        "text": "Odkąd zaczęłam zamawiać jedzenie u was, całkowicie zmieniłam swoje podejście do zdrowego odżywiania. Wcześniej myślałam, że to drogie i trudne, ale teraz widzę, że można jeść zdrowo i smacznie. Szczególnie lubię dania warzywne — zawsze soczyste, nie rozgotowane. Plus wygodna aplikacja, w której można zmieniać menu i śledzić kalorie. Zrezygnowałam z niezdrowych przekąsek, a nawet moja skóra wygląda lepiej. Jestem bardzo wdzięczna za taką usługę!",
+        "img": "src/assets/stat4.webp",
+        "city": "Czarnobyl"
+    },
+    {
+        "name": "Ilja",
+        "text": "Ta usługa całkowicie zmieniła moje odżywianie. Rano nie myślę już, co ugotować — otwieram pudełko i wszystko jest gotowe. Idealne dla tych, którzy pracują lub się uczą. Jakość jedzenia jest zawsze wysoka, nic nie jest zepsute, świeżość na najwyższym poziomie. Nawet rodzice się wciągnęli, chociaż na początku się śmiali. Widzę postępy: mniej obrzęków, płaski brzuch, a nastrój lepszy. To nie tylko catering — to mój osobisty pomocnik w dbaniu o siebie i swoje ciało.",
+        "img": "src/assets/stat5.jpg",
+        "city": "Plombir"
+    },
+    {
+        "name": "Ilja",
+        "text": "Postanowiłem spróbować cateringu z ciekawości — miałem dość jedzenia fast foodów. Nie spodziewałem się, że zdrowe jedzenie może być tak smaczne! Nawet desery są świetne: bez cukru, ale naprawdę smaczne. Podoba mi się, że można wybrać dietę dostosowaną do aktywności — trenuję i białka jest wystarczająco. Kurier zawsze przychodzi na czas, opakowanie jest wygodne. A co najważniejsze — samopoczucie się poprawiło, pojawiła się lekkość. Będę dalej zamawiać i polecać znajomym!",
+        "img": "src/assets/brad1.jpeg",
+        "city": "Egipt"
+    },
+    {
+        "name": "Ilja",
+        "text": "Próbowałam wielu usług zdrowego odżywiania, ale ten catering okazał się dla mnie prawdziwym odkryciem. Dania są nie tylko smaczne, ale i naprawdę zbilansowane — widać, że skład jest dobierany przez dietetyków. Porcje są sycące, niczego nie brakuje, wszystko zgodnie z BWT. Szczególnie podoba mi się, że jedzenie jest zawsze świeże, a dostawa niezawodna. Dzięki tej usłudze w końcu zaczęłam regularnie jeść i czuję się lżej, mam więcej energii i pewności siebie. ",
+        "img": "src/assets/brad2.jpg",
+        "city": "Żytomierz"
+    }
+]

@@ -1,0 +1,102 @@
+{
+  "header": {
+    "logo": "FitZone",
+    "functions": "Kontakt",
+    "benefits": "Opinie",
+    "pricing": "Zalety",
+    "contacts": "Kontakt",
+    "faq": "FAQ"
+  },
+  "features": {
+    "title1": "Kontrola żywienia",
+    "text1": "Śledź, co i ile jesz",
+    "title2": "Cele fitness",
+    "text2": "Pracuj nad swoimi wynikami",
+    "title3": "Analiza",
+    "text3": "Obserwuj postępy i zmieniaj podejście",
+    "title4": "Przypomnienia",
+    "text4": "Nie zapominaj o jedzeniu i wodzie"
+  },
+  "hero": {
+    "title1": "Dobre zdrowie zaczyna się od tego, co jesz.",
+    "text1": "Chcesz jeść bardziej świadomie? Śledź swoje posiłki, poznaj swoje nawyki i osiągaj cele z MyFitnessPal.",
+    "button": "Rozpocznij za darmo",
+    "title2": "Baza ponad 14 milionów produktów.",
+    "text2": "Zobacz rozkład kalorii i składników odżywczych, porównaj porcje i sprawdź, jak jedzenie wspiera Twoje cele."
+  },
+  "cta": {
+    "title": "Zacznij dbać o swoje zdrowie już dziś :)",
+    "text": "Wysłanie wiadomości zajmuje mniej niż minutę — i możesz śledzić swoją dietę i postępy!"
+  },
+  "mail": {
+    "title": "Formularz kontaktowy",
+    "name": "Imię:",
+    "email": "Email:",
+    "message": "Wiadomość:",
+    "send": "Wyślij"
+  },
+  "faq": {
+    "title": "Najczęściej zadawane pytania",
+    "items": {
+      "q1": {
+        "question": "Jak działa wasza usługa?",
+        "answer": "Nasza usługa umożliwia łatwe śledzenie diety i treningów. Możesz wybrać plan i monitorować postępy."
+      },
+      "q2": {
+        "question": "Czy mogę zmienić plan żywieniowy?",
+        "answer": "Tak, możesz zmienić plan w każdej chwili w ustawieniach konta."
+      },
+      "q3": {
+        "question": "Jak skontaktować się z pomocą techniczną?",
+        "answer": "Możesz skontaktować się z nami przez formularz kontaktowy lub e-mail: support@fitzone.com."
+      },
+      "q4": {
+        "question": "Co otrzymam po rejestracji?",
+        "answer": "Dostaniesz dostęp do spersonalizowanego trackera diety, porad, analiz i rekomendacji dopasowanych do Twoich celów."
+      },
+      "q5": {
+        "question": "Czy mogę całkowicie dostosować plan do siebie?",
+        "answer": "Tak! Możesz wybrać preferowane produkty, wykluczyć niepożądane składniki i ustawić cele."
+      },
+      "q6": {
+        "question": "Co jeśli utracę dane?",
+        "answer": "Przechowujemy kopie zapasowe. Napisz do nas ze swoim e-mailem, a odzyskamy dane."
+      },
+      "q7": {
+        "question": "Czy FitZone jest dobry dla początkujących?",
+        "answer": "Tak! Jest prosty i intuicyjny. Od pierwszego dnia prowadzi Cię krok po kroku."
+      },
+      "q8": {
+        "question": "Czy obliczenia kalorii i makro są dokładne?",
+        "answer": "Tak. Nasze dane są sprawdzone i zgodne z zaleceniami dietetyków."
+      },
+      "q9": {
+        "question": "Nie wiem, od czego zacząć — co robić?",
+        "answer": "Po prostu zarejestruj się. System poprowadzi Cię przez wszystko krok po kroku."
+      }
+    }
+  },
+  "mail": {
+    "title": "Formularz kontaktowy",
+    "name": "Imię",
+    "age": "Wiek",
+    "gender": {
+      "select": "Wybierz płeć",
+      "male": "Mężczyzna",
+      "female": "Kobieta",
+      "other": "Inna"
+    },
+    "goal": {
+      "select": "Twój cel",
+      "lose": "Schudnąć",
+      "gain": "Zbudować masę",
+      "maintain": "Utrzymać formę"
+    },
+    "email": "Email",
+    "contactTime": "Preferowany czas kontaktu",
+    "message": "Twoja wiadomość",
+    "send": "Wyślij"
+  },
+  "success": "Wiadomość została pomyślnie wysłana!",
+  "error": "Wystąpił błąd. Spróbuj ponownie później."
+}
